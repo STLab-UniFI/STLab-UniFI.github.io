@@ -1,0 +1,36 @@
+{% for publication in include.publications %}
+    {% capture publication_title %}
+        {{ publication.title }}
+    {% endcapture %}
+    {% capture publication_authors %}
+        {{ publication.authors }}
+    {% endcapture %}
+    {% capture publication_venue %}
+        {{ publication.venue }}
+    {% endcapture %}
+    {% capture publication_doi %}
+        {{ publication.doi }}
+    {% endcapture %}
+    {% capture publication_pdf %}
+        {{ publication.pdf }}
+    {% endcapture %}
+    {% capture publication_url %}
+        {{ publication.url }}
+    {% endcapture %}
+    {% capture publication_type %}
+        {{publication.type}}
+    {% endcapture %}
+    {% capture publication_year %}
+        {{publication.year}}
+    {% endcapture %}
+    {% include paper.html
+        authors=publication_authors
+        title=publication_title
+        venue=publication_venue
+        doi=publication_doi
+        pdf=publication_pdf
+        url=publication_url
+        type=publication_type
+        year=publication_year
+    %}
+{% endfor %}

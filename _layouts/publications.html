@@ -1,0 +1,240 @@
+---
+layout: page
+---
+<div class="regular-text">
+
+    <div class="publication-dropdown-container">
+        <select id = "myList" class="publication-dropdown" onchange="
+            if (this.value == 'all-by-type') {
+                $('#all').hide();
+                $('#all-by-year').hide();
+                $('#all-by-type').show();
+            } else if (this.value == 'all-by-year') {
+                $('#all').hide();
+                $('#all-by-type').hide();
+                $('#all-by-year').show();
+            } else {
+                $('#all-by-type').hide();
+                $('#all-by-year').hide();
+                $('#all').show();
+                if (this.value == 'all') {
+                    $('.biblist li').show();
+                } else if (this.value == 'journals') {
+                    $('.biblist li').hide().filter('[type=article]').show();
+                } else if (this.value == 'conferences') {
+                    $('.biblist li').hide().filter('[type=conference]').show();
+                } else if (this.value == 'bookChapters') {
+                    $('.biblist li').hide().filter('[type=book]').show();
+                } else if (this.value == 'thesis') {
+                    $('.biblist li').hide().filter('[type=thesis]').show();
+                } else if (this.value == 'other') {
+                    $('.biblist li').hide().filter('[type=other]').show();
+                }
+            }
+        ">
+            <option class="publication-dropdown" value = "all">ALL</option>
+            <option class="publication-dropdown" value = "all-by-type">By type</option>
+            <option class="publication-dropdown" value = "all-by-year" selected>By year</option>
+            <option class="publication-dropdown" value = "journals">Journal articles</option>
+            <option class="publication-dropdown" value = "conferences">Conferences/workshops</option>
+            <option class="publication-dropdown" value = "bookChapters">Books/book chapters</option>
+            <option class="publication-dropdown" value = "thesis">PhD theses</option>
+            <option class="publication-dropdown" value = "other">Other</option>
+        </select>
+    </div>
+
+    {% assign 2021_items = page.publications | where: "year", "2021" %}
+    {% assign 2020_items = page.publications | where: "year", "2020" %}
+    {% assign 2019_items = page.publications | where: "year", "2019" %}
+    {% assign 2018_items = page.publications | where: "year", "2018" %}
+    {% assign 2017_items = page.publications | where: "year", "2017" %}
+    {% assign 2016_items = page.publications | where: "year", "2016" %}
+    {% assign 2015_items = page.publications | where: "year", "2015" %}
+    {% assign 2014_items = page.publications | where: "year", "2014" %}
+    {% assign 2013_items = page.publications | where: "year", "2013" %}
+    {% assign 2012_items = page.publications | where: "year", "2012" %}
+    {% assign 2011_items = page.publications | where: "year", "2011" %}
+    {% assign 2010_items = page.publications | where: "year", "2010" %}
+    {% assign 2009_items = page.publications | where: "year", "2009" %}
+    {% assign 2008_items = page.publications | where: "year", "2008" %}
+    {% assign 2007_items = page.publications | where: "year", "2007" %}
+    {% assign 2006_items = page.publications | where: "year", "2006" %}
+    {% assign 2005_items = page.publications | where: "year", "2005" %}
+    {% assign 2004_items = page.publications | where: "year", "2004" %}
+
+    {% assign journal_items = page.publications | where: "type", "article" %}
+    {% assign conference_items = page.publications | where: "type", "conference" %}
+    {% assign bookChapters_items = page.publications | where: "type", "book" %}
+    {% assign other_items = page.publications | where: "type", "other" %}
+    {% assign thesis_items = page.publications | where: "type", "thesis" %}
+
+    <div id="all" style="display: None">
+        <ol class="biblist" reversed>
+            {% include papers.html publications=2021_items %}
+            {% include papers.html publications=2020_items %}
+            {% include papers.html publications=2019_items %}
+            {% include papers.html publications=2018_items %}
+            {% include papers.html publications=2017_items %}
+            {% include papers.html publications=2016_items %}
+            {% include papers.html publications=2015_items %}
+            {% include papers.html publications=2014_items %}
+            {% include papers.html publications=2013_items %}
+            {% include papers.html publications=2012_items %}
+            {% include papers.html publications=2011_items %}
+            {% include papers.html publications=2010_items %}
+            {% include papers.html publications=2009_items %}
+            {% include papers.html publications=2008_items %}
+            {% include papers.html publications=2007_items %}
+            {% include papers.html publications=2006_items %}
+            {% include papers.html publications=2005_items %}
+            {% include papers.html publications=2004_items %}
+        </ol>
+    </div>
+
+    <div id="all-by-type"  style="display: None">
+        <div id="journal-publications" class="publication-block">
+            <h3 class="publication-block-title">Journals</h3>
+            <ol class="biblist-by-type" reversed>
+                {% include papers.html publications=journal_items %}
+            </ol>
+        </div>
+        <div id="conference-publications" class="publication-block">
+            <h3 class="publication-block-title">Conferences</h3>
+            <ol class="biblist-by-type" reversed>
+                {% include papers.html publications=conference_items %}
+            </ol>
+        </div>
+        <div id="bookChapters-publications" class="publication-block">
+            <h3 class="publication-block-title">Book Chapters</h3>
+            <ol class="biblist-by-type" reversed>
+                {% include papers.html publications=bookChapters_items %}
+            </ol>
+        </div>
+        <div id="thesis-publications" class="publication-block">
+            <h3 class="publication-block-title">PhD theses</h3>
+            <ol class="biblist-by-type" reversed>
+                {% include papers.html publications=thesis_items %}
+            </ol>
+        </div>
+        <div id="other-publications" class="publication-block">
+            <h3 class="publication-block-title">Other</h3>
+            <ol class="biblist-by-type" reversed>
+                {% include papers.html publications=other_items %}
+            </ol>
+        </div>
+
+    </div>
+
+        <div id="all-by-year">
+            <div id="2021-publications" class="publication-block">
+                <h3 class="publication-block-title">2021</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2021_items %}
+                </ol>
+            </div>
+            <div id="2020-publications" class="publication-block">
+                <h3 class="publication-block-title">2020</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2020_items %}
+                </ol>
+            </div>
+            <div id="2019-publications" class="publication-block">
+                <h3 class="publication-block-title">2019</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2019_items %}
+                </ol>
+            </div>
+            <div id="2018-publications" class="publication-block">
+                <h3 class="publication-block-title">2018</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2018_items %}
+                </ol>
+            </div>
+            <div id="2017-publications" class="publication-block">
+                <h3 class="publication-block-title">2017</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2017_items %}
+                </ol>
+            </div>
+            <div id="2016-publications" class="publication-block">
+                <h3 class="publication-block-title">2016</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2016_items %}
+                </ol>
+            </div>
+            <div id="2015-publications" class="publication-block">
+                <h3 class="publication-block-title">2015</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2015_items %}
+                </ol>
+            </div>
+            <div id="2014-publications" class="publication-block">
+                <h3 class="publication-block-title">2014</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2014_items %}
+                </ol>
+            </div>
+            <div id="2013-publications" class="publication-block">
+                <h3 class="publication-block-title">2013</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2013_items %}
+                </ol>
+            </div>
+            <div id="2012-publications" class="publication-block">
+                <h3 class="publication-block-title">2012</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2012_items %}
+                </ol>
+            </div>
+            <div id="2011-publications" class="publication-block">
+                <h3 class="publication-block-title">2011</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2011_items %}
+                </ol>
+            </div>
+            <div id="2010-publications" class="publication-block">
+                <h3 class="publication-block-title">2010</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2010_items %}
+                </ol>
+            </div>
+            <div id="2009-publications" class="publication-block">
+                <h3 class="publication-block-title">2009</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2009_items %}
+                </ol>
+            </div>
+            <div id="2008-publications" class="publication-block">
+                <h3 class="publication-block-title">2008</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2008_items %}
+                </ol>
+            </div>
+            <div id="2007-publications" class="publication-block">
+                <h3 class="publication-block-title">2007</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2007_items %}
+                </ol>
+            </div>
+            <div id="2006-publications" class="publication-block">
+                <h3 class="publication-block-title">2006</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2006_items %}
+                </ol>
+            </div>
+            <div id="2005-publications" class="publication-block">
+                <h3 class="publication-block-title">2005</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2005_items %}
+                </ol>
+            </div>
+            <div id="2004-publications" class="publication-block">
+                <h3 class="publication-block-title">2004</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2004_items %}
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-xl-2"></div>

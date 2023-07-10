@@ -1,0 +1,28 @@
+<li type="{{ include.type | strip }}">
+    {{ include.authors }}
+    <br><b>{{ include.title }}</b>
+    {% assign venue_stripped = include.venue | strip %}
+    {% assign year_stripped = include.year | strip %}
+    {% if venue_stripped != "" %}
+    <br><i>{{venue_stripped}}, {{year_stripped}}</i><br/>
+    {% else %}
+    <br><i>{{include.year}}</i><br/>
+    {% endif %}
+    {% assign doi_stripped = include.doi | strip %}
+    {% if doi_stripped == "" %}
+        [DOI]
+    {% else %}
+        [<a href="{{ doi_stripped }}" target="_blank">DOI</a>]
+    {% endif %}
+    {% assign pdf_stripped = include.pdf | strip %}
+    {% assign url_stripped = include.url | strip %}
+    {% if pdf_stripped == "" %}
+        {% if url_stripped == "" %}
+            [PDF]
+        {% else %}
+            [<a href="{{ url_stripped }}" target="_blank">PDF</a>]
+        {% endif %}
+    {% else %}
+        [<a href="/files/pubs/{{ pdf_stripped }}" target="_blank">PDF</a>]
+    {% endif %}
+</li>

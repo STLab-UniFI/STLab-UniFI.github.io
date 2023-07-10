@@ -1,0 +1,90 @@
+---
+layout: page
+title: Team
+<!-- subtitle: X  -->
+team:
+  - name: Prof. Dr. Enrico Vicario
+    img: /img/people/enrico.png
+    desc: Full Professor
+    website: https://stlab.dinfo.unifi.it/vicario/
+    url: https://stlab.dinfo.unifi.it/vicario/
+
+  - name: Prof. Dr. Alessanrdo Fantechi
+    img: /img/people/Alessandro.png
+    desc: Full Professor
+    website: https://stlab.dinfo.unifi.it/fantechi/
+    url: https://stlab.dinfo.unifi.it/fantechi/
+
+
+  - name: Prof. Dr. Laura Carnevali
+    img: /img/people/Laura.png
+    desc: Associate Professor
+    website: https://stlab.dinfo.unifi.it/carnevali/ 
+    url: https://stlab.dinfo.unifi.it/carnevali/ 
+
+  - name: Dr. Dr. Roberto Verdecchia
+    img: /img/people/roberto.png
+    desc: Assistant Professor 
+    website: https://robertoverdecchia.github.io/
+    url: https://robertoverdecchia.github.io/
+    github: https://github.com/robertoverdecchia
+    twitter: https://twitter.com/r_verdecchia
+
+  - name: Dr. Benedetta Picano
+    img: /img/people/benedetta.png
+    desc: Assistant Professor
+    website: https://stlab.dinfo.unifi.it/picano
+    url: https://stlab.dinfo.unifi.it/picano
+
+  - name: Dr. Lorenzo Scommegna
+    img: /img/people/leonardo.png
+    desc: Postoctoral Researcher 
+    website: https://www.linkedin.com/in/leonardo-scommegna-664b0a162/
+    url: https://www.linkedin.com/in/leonardo-scommegna-664b0a162/
+
+  - name: Dr. Riccardo Reali
+    img: /img/people/riccardo.png
+    desc: Postoctoral Researcher
+    website: https://www.linkedin.com/in/riccardo-reali-b7602b46/
+    url: https://www.linkedin.com/in/riccardo-reali-b7602b46/
+
+  - name: Dr. Gloria Gori
+    img: /img/people/gloria.png
+    desc: Postdoctoral Researcher
+    website: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
+    url: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
+
+  - name: Dr. Imad Zazza
+    img: /img/people/imad.png
+    desc: DevOps Group Engineer
+    website: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
+    url: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
+
+
+---
+{% include list-squares.html items=page.team %}
+
+<!--
+# Associated Members
+- [Prof. Dr. Hans van Vliet](https://scholar.google.it/citations?user=4YAdfEsAAAAJ&hl=it&oi=ao)
+- [Prof. Dr. Gerrit van der Veer](https://www.cs.vu.nl/~gerrit/)
+- [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
+-->
+
+# Researcher assistants
+- [Dr. Jacopo Parri](https://www.unifi.it/p-doc2-2020-0-A-2c3337293730-0.html)
+- [Dr. Samuele Sampietro](https://www.linkedin.com/in/samuele-sampietro/)
+- [Boris Brizzi](https://www.linkedin.com/in/boris-brizzi-099592117/)
+- [Stefania Cerboni](https://www.linkedin.com/in/stefania-cerboni-66407a145/)
+- Nicola Bertocci
+
+# Scientific Collaborators
+- [Prof. Patricia Lago](https://patricialago.nl/)
+- [Prof. András Horváth](http://www.di.unito.it/~horvath/)
+
+<!--
+# Former Members
+- ? [e.g., former graduated Ph.D. Student]
+-->
+# Guests
+- [Dr. Marco Paolieri](https://qed.usc.edu/paolieri/)

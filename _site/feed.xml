@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Software Technologies Lab</title>
+    
+    
+    <description>Software Technologies Lab • University of Florence</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>STLab project on software education funded by Fondazione CR Firenze</title>
+        <description>
+          
+          The project “Software Engineering Education and Training: Exploring Factors for Excellence (SEET-EFE)” recieved funding from the Fondazione CR Firenze. The fund, amounting to 60.000€, will be used to design, optimize, and consolidate innovative educational processes in the field of software development, with a particular emphasis on the balance between practical...
+        </description>
+        <pubDate>Thu, 22 Jun 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023-06-22-FCR_fund/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-06-22-FCR_fund/</guid>
+      </item>
+    
+      <item>
+        <title>ISSRE&apos;23 is coming to Florence</title>
+        <description>
+          
+          The 34th IEEE International Symposium on Software Reliability Engineering (ISSRE’23) conference will be hosted in Florence from the 9th to the 12th October 2023. The event will be organized by Enrico Vicario, with the support of local co-organizers Benedetta Picano and Roberto Verdecchia. ISSRE is the leading conference on software...
+        </description>
+        <pubDate>Tue, 13 Jun 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023-06-13-ISSRE/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-06-13-ISSRE/</guid>
+      </item>
+    
+  </channel>
+</rss>

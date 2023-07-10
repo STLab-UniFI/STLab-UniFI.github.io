@@ -1,0 +1,59 @@
+@import url("pygment_highlights.css");
+
+/* --- General --- */
+
+/* --- Lists of squares --- */
+
+.list-squares {
+  text-align: center;
+}
+
+@media only screen and (min-width: 1200px) {
+  .list-squares {
+    width: 150%;
+    margin-left: -25%;
+  }
+}
+
+
+.list-squares-item {
+  display: inline-block;
+  width: 240px;
+  vertical-align: top;
+  margin: 0;
+  padding: 20px;
+}
+
+.list-squares-item:hover {
+  background: #197ee3;
+}
+
+.list-squares-item .item-img {
+  max-width: 200px;
+  height: 200px;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+
+.list-squares-item .item-desc {
+  font-size: 16px;
+}
+
+.list-squares-item .item-links {
+  margin-top: 5px;
+}
+
+.list-squares-item .item-link {
+  margin:0 3px;
+  color: #4A99E9;
+  text-decoration: none !important;
+}
+
+.list-squares-item .item-link:hover {
+  color: #4A99E9;
+}
+
+.fa_custom {
+  color: #197ee3
+}
