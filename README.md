@@ -1,3 +1,3 @@
-# Software and Sustainability research group 
+# Software Technlogies Laboratory 
 
-Official website of the Software and Sustainability research group (S2) at the Vrije Universiteit Amsterdam.
+Official website of the Software Technlogies Laboratory at the School of Engineering - University of Florence
