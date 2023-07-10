@@ -10,14 +10,14 @@ team:
     url: https://stlab.dinfo.unifi.it/vicario/
 
   - name: Prof. Dr. Alessanrdo Fantechi
-    img: /img/people/Alessandro.png
+    img: /img/people/alessandro.png
     desc: Full Professor
     website: https://stlab.dinfo.unifi.it/fantechi/
     url: https://stlab.dinfo.unifi.it/fantechi/
 
 
   - name: Prof. Dr. Laura Carnevali
-    img: /img/people/Laura.png
+    img: /img/people/laura.png
     desc: Associate Professor
     website: https://stlab.dinfo.unifi.it/carnevali/ 
     url: https://stlab.dinfo.unifi.it/carnevali/ 
