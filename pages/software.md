@@ -8,11 +8,13 @@ title: Our software
 In the following you can find the main software (open-source) projects implemented and maintained by us. Refer to our [GitHub profile](https://github.com/STLab-UniFI) for a complete overview of all our projects/tools.
 
 # ORIS
+<div style="text-align: center;">
 <figure>
     <img src="/img/logos/oris.png"
-         alt="">
+         alt="" style="text-align: center; width: 80%;">
     <figcaption></figcaption>
 </figure>
+</div>
 ORIS is a tool for quantitative modeling of non-Markovian systems as Stochastic Time Petri Nets (STPNs) and for their quantitative evaluation through the method of stochastic state classes.
 
 Website: [https://www.oris-tool.org](https://www.oris-tool.org)
@@ -32,41 +34,37 @@ ATDx is an approach designed to provide a data-driven, intuitive, and actionable
 GitHub: [https://github.com/S2-group/ATDx](https://github.com/S2-group/ATDx)
 
 # SIRIO
+<div style="text-align: center;">
 <figure>
     <img src="/img/logos/sirio.png"
-         alt="">
+         alt="" style="text-align: center; width: 80%;">
     <figcaption></figcaption>
 </figure>
+</div>
 SIRIO is a Java library implementing the modeling and evaluation features of ORIS, in particular the symbolic calculus of stochastic state classes and the analysis methods for STPNs.
 
 Website: [https://www.oris-tool.org](https://www.oris-tool.org/sirio)
 
-# ORIS
-<figure>
-    <img src="/img/logos/oris.png"
-         alt="">
-    <figcaption></figcaption>
-</figure>
-ORIS is a tool for quantitative modeling of non-Markovian systems as Stochastic Time Petri Nets (STPNs) and for their quantitative evaluation through the method of stochastic state classes.
-
-Website: [https://www.oris-tool.org](https://www.oris-tool.org)
-
 # EULERO
+<div style="text-align: center;">
 <figure>
     <img src="/img/logos/eulero.png"
-         alt="">
+         alt="" style="text-align: center; width: 80%;">
     <figcaption></figcaption>
 </figure>
+</div>
 EULERO is a Java library implementing a compositional approach to safe approximation of the end-to-end response time Probability Density Function (PDF) of complex workflows, made of activities with general (i.e., non-Exponential) duration possibly with bounded support, composed through sequence, choice/merge, and split/join blocks, with unbalanced split and join constructs that may break the structure of well-formed nesting.
 
 Website: [https://github.com/oris-tool/eulero](https://github.com/oris-tool/eulero)
 
 # PYRAMIS
+<div style="text-align: center;">
 <figure>
     <img src="/img/logos/pyramis.png"
-         alt="">
+         alt="" style="text-align: center; width: 80%;">
     <figcaption></figcaption>
 </figure>
+</div>
 PYRAMIS is a Java library implementing a compositional approach for quantitative modeling and analysis of non-Markovian systems specified as an extension of UML statecharts. 
 
 Website: [https://github.com/oris-tool/pyramis](https://github.com/oris-tool/pyramis)
