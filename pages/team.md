@@ -38,7 +38,7 @@ team:
 
   - name: Dr. Lorenzo Scommegna
     img: /img/people/leonardo.png
-    desc: Postoctoral Researcher 
+    desc: Assistant Professor
     website: https://www.linkedin.com/in/leonardo-scommegna-664b0a162/
     url: https://www.linkedin.com/in/leonardo-scommegna-664b0a162/
 

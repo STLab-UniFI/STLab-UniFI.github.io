@@ -11,6 +11,8 @@ In the following you can find the group members (and their topics of interest) w
 | Enrico Vicario | .... |
 | Alessandro Fantechi | .... |
 | Laura Carnevali | .... |
-| Roberto Verdecchia | Empirical Software Experimentation, Software Repository Mining, Software Analysis, Techical Debt, Green AI, Software Engineering Education and Training |
+| Roberto Verdecchia | Empirical Software Engineering, Software Repository Mining, Software Analysis, Technical Debt, Green AI, Software Engineering Education and Training |
 | Benedetta Picano | .... |
+| Leonardo Scommegna | .... |
+| Imad Zaza | .... |
 
