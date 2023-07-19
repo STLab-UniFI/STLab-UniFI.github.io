@@ -54,7 +54,7 @@ team:
     website: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
     url: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
 
-  - name: Dr. Imad Zazza
+  - name: Dr. Imad Zaza
     img: /img/people/imad.png
     desc: DevOps Group Engineer
     website: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
