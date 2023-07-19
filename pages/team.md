@@ -81,7 +81,8 @@ team:
 # Scientific Collaborators
 - [Prof. Patricia Lago](https://patricialago.nl/)
 - [Prof. András Horváth](http://www.di.unito.it/~horvath/)
-
+- [Prof. Romano Fantacci](https://romanofantacci.com/)
+  
 <!--
 # Former Members
 - ? [e.g., former graduated Ph.D. Student]
