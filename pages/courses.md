@@ -4,7 +4,7 @@ title: Teaching
 <!-- subtitle: X  -->
 ---
 
-We provide the following courses.
+The STLab provides the following courses.
 
 |Course | Instructor | Program |
 | --- | --- | --- |
