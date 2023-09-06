@@ -8,7 +8,7 @@ title: Contact
   <div class="column">
       <h3>Information</h3><br>
       <h5>Phone</h5> +39 055 2758570<br><br>
-    <h5>Email</h5> amministrazione(AT)dinfo.unifi.it
+    <h5>Email</h5> enrico.vicario(AT)unifi.it
   </div>
   <div class="column">
     <h3>Where we are</h3>
