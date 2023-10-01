@@ -48,6 +48,7 @@ Our strength is the balance between **scientific quality** and **industrial rele
   - [Software and Sustainability Group at Vrije Univeristiet Amsterdam, The Netherlands](https://s2group.cs.vu.nl/){:target="_blank"} 
 
 **Non-academic partners**
+  - [Wedge](https://www.wedge.srl/){:target="_blank"}
   - [Jaewa](https://www.jaewa.com/){:target="_blank"}
   - [Lascaux](https://www.lascaux.it/){:target="_blank"}
   - [Dr.Wolf](https://www.drwolf.it/){:target="_blank"}
