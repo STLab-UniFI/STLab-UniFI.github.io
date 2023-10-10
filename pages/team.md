@@ -36,7 +36,7 @@ team:
     website: https://stlab.dinfo.unifi.it/picano
     url: https://stlab.dinfo.unifi.it/picano
 
-  - name: Dr. Lorenzo Scommegna
+  - name: Dr. Leonardo Scommegna
     img: /img/people/leonardo.png
     desc: Assistant Professor
     website: https://www.linkedin.com/in/leonardo-scommegna-664b0a162/
