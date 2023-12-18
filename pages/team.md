@@ -54,6 +54,13 @@ team:
     website: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
     url: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
 
+    - name: Leonardo Paroli
+    img: /img/people/leonardoParoli.png
+    desc: PhD Student
+    website: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+    url: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+    github: https://github.com/LeonardoParoli
+
   - name: Dr. Imad Zaza
     img: /img/people/imad.png
     desc: DevOps Group Engineer
