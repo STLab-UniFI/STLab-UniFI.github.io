@@ -57,8 +57,8 @@ team:
   - name: Leonardo Paroli
     img: /img/people/leonardoParoli.png
     desc: PhD Student
-    website: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-    url: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+    website: https://www.linkedin.com/in/leonardo-paroli-127508154/?originalSubdomain=it
+    url: https://www.linkedin.com/in/leonardo-paroli-127508154/?originalSubdomain=it
     github: https://github.com/LeonardoParoli
 
   - name: Dr. Imad Zaza
