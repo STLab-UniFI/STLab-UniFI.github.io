@@ -42,17 +42,17 @@ team:
     website: https://www.linkedin.com/in/leonardo-scommegna-664b0a162/
     url: https://www.linkedin.com/in/leonardo-scommegna-664b0a162/
 
+  - name: Dr. Gloria Gori
+    img: /img/people/gloria.png
+    desc: Assistant Professor
+    website: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
+    url: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
+
   - name: Dr. Riccardo Reali
     img: /img/people/riccardo.png
     desc: Postoctoral Researcher
     website: https://www.linkedin.com/in/riccardo-reali-b7602b46/
     url: https://www.linkedin.com/in/riccardo-reali-b7602b46/
-
-  - name: Dr. Gloria Gori
-    img: /img/people/gloria.png
-    desc: Postdoctoral Researcher
-    website: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
-    url: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
 
   - name: Leonardo Paroli
     img: /img/people/leonardoParoli.png
@@ -61,6 +61,10 @@ team:
     url: https://www.linkedin.com/in/leonardo-paroli-127508154/?originalSubdomain=it
     github: https://github.com/LeonardoParoli
 
+  - name: Marco Becattini
+    img: /img/people/marco.png
+    desc: Phd Student
+    
   - name: Dr. Imad Zaza
     img: /img/people/imad.png
     desc: DevOps Group Engineer
