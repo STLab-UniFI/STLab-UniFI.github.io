@@ -22,7 +22,7 @@ title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway sy
 <div style="text-align: center">
 <figure>
     <img src="/img/logos/nextgeneu_en.png"
-         alt="" style="text-align: center; width: 40%;">
+         alt="" style="text-align: center; width: 60%;">
     <figcaption></figcaption>
 </figure>
 </div>
