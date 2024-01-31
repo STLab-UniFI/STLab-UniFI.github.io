@@ -28,6 +28,26 @@ communities.
 </div></div>
 </div>
 
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center">
+<figure>
+    <img src="/img/logos/adventure.png"
+         alt="" style="text-align: center; width: 25%;">
+    <figcaption></figcaption>
+</figure>
+<div><strong style="color: #4A99E9;">ADVENTURE</strong><br>
+<div style="text-align:left;">
+The ADVancEd iNtegraTed evalUation of Railway systEms (ADVENTURE) project develops innovative solutions for the evaluation of railway systems. Using Model-Driven Engineering (MDE) methods and multi-paradigm or multi-formalism approaches to help create bridges between different abstraction levels, the project focuses on the following objectives:
+
+Qualitative evaluation of safety of complex distributed railway systems, by means of diverse techniques such as compositional model checking, synthesis of specifications given as behavioral interfaces, and tool support for relating specifications with implementations; Quantitative evaluation of dependability attributes in spite of failures, in particular considering communication failures, through quantitative modeling and evaluation of the timed failure logic of the system; Quantitative evaluation of trade-offs between energy efficiency and availability/performance, considering different smart policies of energy saving and taking into account failures, criticalities, and priorities of the system under analysis.
+
+{%- capture links -%} [[Read more.]]({{ site.baseurl }}{% link pages/projects/adventure.md %}){%- endcapture -%}{{ links | markdownify | remove: '<p>' | remove: '</p>' }}
+<br><br><br><br>
+</div>
+</div></div>
+</div>
+
+
 
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center"><br>
