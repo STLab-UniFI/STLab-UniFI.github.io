@@ -4,12 +4,10 @@ title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway sy
 <!-- subtitle: X  -->
 --- 
 <style>
-table {
-    border-collapse: collapse;
-}
+.tab {border-collapse:collapse;}​
 </style>
 
-<table border="0">
+<table class="tab">
 <tbody>
     <tr><td><figure>
     <img src="/img/logos/adventure.png"
