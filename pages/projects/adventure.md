@@ -3,6 +3,12 @@ layout: page
 title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway systEms (ADVENTURE)
 <!-- subtitle: X  -->
 --- 
+<style>
+table {
+    border-collapse: collapse;
+}
+</style>
+
 <table border="0">
 <tbody>
     <tr><td><figure>
@@ -26,8 +32,8 @@ The many specific and complex interactions among these subsystems raise new chal
 To address these challenges, the ADVENTURE project develops innovative solutions for the evaluation of railway systems.
 Using Model-Driven Engineering (MDE) methods and multi-paradigm or multi-formalism approaches to help create bridges between different abstraction levels, the project focuses on the following objectives:
 
-Qualitative evaluation of safety of complex distributed railway systems, by means of diverse techniques such as compositional model checking, synthesis of specifications given as behavioral interfaces, and tool support for relating specifications with implementations;</li>
-Quantitative evaluation of dependability attributes in spite of failures, in particular considering communication failures, through quantitative modeling and evaluation of the timed failure logic of the system;</li>
+Qualitative evaluation of safety of complex distributed railway systems, by means of diverse techniques such as compositional model checking, synthesis of specifications given as behavioral interfaces, and tool support for relating specifications with implementations;
+Quantitative evaluation of dependability attributes in spite of failures, in particular considering communication failures, through quantitative modeling and evaluation of the timed failure logic of the system;
 Quantitative evaluation of trade-offs between energy efficiency and availability/performance, considering different smart policies of energy saving and taking into account failures, criticalities, and priorities of the system under analysis.
 
 The developed solutions will be validated by their application to systems highly representative of the innovation trends in railways, notably including decentralized interlockings and smart deicing systems.
