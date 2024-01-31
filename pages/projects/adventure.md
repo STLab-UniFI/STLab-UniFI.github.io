@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway systEms (ADVENTURE) -->
+title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway systEms (ADVENTURE)
 <!-- subtitle: X  -->
 ---  
 <div style="text-align: center">
