@@ -3,22 +3,15 @@ layout: page
 title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway systEms (ADVENTURE)
 <!-- subtitle: X  -->
 --- 
-<table>
-<caption></caption>
-<thead>
-<tr><th></th><th></th></tr>
-</thead>
-<tfoot>
-<tr><td></td><td></td></tr>
-</tfoot>
+<table border="0">
 <tbody>
-<tr><td><figure>
+    <tr><td><figure>
     <img src="/img/logos/adventure.png"
-         alt="" style="text-align: left; width: 60%;">
+         alt="" style="text-align: left; width: 70%;">
     <figcaption></figcaption>
 </figure></td><td><figure>
     <img src="/img/logos/nextgeneu_en.png"
-         alt="" style="text-align: right; width: 30%;">
+         alt="" style="text-align: right; width: 40%;">
     <figcaption></figcaption>
 </figure>
 </td></tr>
