@@ -55,7 +55,7 @@ team:
     url: https://www.linkedin.com/in/riccardo-reali-b7602b46/
 
   - name: Leonardo Paroli
-    img: /img/people/leonardoParoli.png
+    img: /img/people/leo.png
     desc: PhD Student
     website: https://www.linkedin.com/in/leonardo-paroli-127508154/?originalSubdomain=it
     url: https://www.linkedin.com/in/leonardo-paroli-127508154/?originalSubdomain=it
