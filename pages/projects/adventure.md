@@ -21,7 +21,18 @@ title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway sy
 
 <div class="row ">
 
-<div class="col-sm">
+<div class="col">
+<div style="text-align: center">
+<figure>
+    <img src="/img/logos/logo_DINFO_positivo.png"
+         alt="" style="text-align: center; width: 30%;">
+    <figcaption></figcaption>
+</figure>
+</div>
+</div>
+
+
+<div class="col">
 <div style="text-align: center">
 <figure>
     <img src="/img/logos/logo-composto-CNR_ISTI-White.png"
@@ -31,7 +42,7 @@ title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway sy
 </div>
 </div>
 
-<div class="col-sm">
+<div class="col">
 <div style="text-align: center">
 <figure>
     <img src="/img/logos/logoFMTacroWhite.png"
@@ -41,7 +52,7 @@ title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway sy
 </div>
 </div>
 
-<div class="col-sm">
+<div class="col">
 <div style="text-align: center">
 <figure>
     <img src="/img/logos/LogoSEDC2.png"
