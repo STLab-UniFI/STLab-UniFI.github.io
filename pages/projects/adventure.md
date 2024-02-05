@@ -41,7 +41,9 @@ title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway sy
 </figure>
 </div>
 </div>
+</div>
 
+<div class="row">
 <div class="col">
 <div style="text-align: center">
 <figure>
