@@ -12,11 +12,6 @@ title: PRIN PNRR Prot. P2022A492B - ADVancEd iNtegraTed evalUation of Railway sy
          alt="" style="text-align: center; width: 70%;">
     <figcaption></figcaption>
 </figure>
-<figure>
-    <img src="/img/logos/nextgeneu_en_new.png"
-         alt="" style="text-align: center; width: 100%;">
-    <figcaption></figcaption>
-</figure>
 </div>
 
 
@@ -36,6 +31,16 @@ Quantitative evaluation of trade-offs between energy efficiency and availability
 The developed solutions will be validated by their application to systems highly representative of the innovation trends in railways, notably including decentralized interlockings and smart deicing systems.
 
 To address these objectives, ADVENTURE unites two research units with consolidated experience in model-based methods for qualitative and quantitative evaluation of complex systems and in their application to various fields of the railway domain.
+
+<div style="text-align: center">
+<figure>
+    <img src="/img/logos/nextgeneu_en_new.png"
+         alt="" style="text-align: center; width: 100%;">
+    <figcaption></figcaption>
+</figure>
+</div>
+
+
 
 <div class="row ">
 
