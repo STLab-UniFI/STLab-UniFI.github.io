@@ -7,9 +7,20 @@
     
     <description>Software Technologies Lab • University of Florence</description>
     
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://stlab-unifi.github.io/</link>
+    <atom:link href="https://stlab-unifi.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>STLab wins Best Poster awards at Restart Plenary Meeting</title>
+        <description>
+          
+          STLab lands a double score at Restart Plenary Meeting, held in Bologna this January, winning both the il “Best Poster” and “Best Poster Runner–up” awards The “Best Poster” accolade was awarded for the project titled “Complex Ecosystem Management via Digital Twins Networks.” This work focuses on leveraging the role of...
+        </description>
+        <pubDate>Mon, 29 Jan 2024 00:00:00 -0500</pubDate>
+        <link>https://stlab-unifi.github.io/2024-01-29-RESTART/</link>
+        <guid isPermaLink="true">https://stlab-unifi.github.io/2024-01-29-RESTART/</guid>
+      </item>
     
       <item>
         <title>Closing the curtains on ISSRE'23 hosted in Florence</title>
@@ -18,8 +29,8 @@
           We are delighted to announce that, as of the 12th October 2023, the 34th IEEE International Symposium on Software Reliability Engineering (ISSRE) has concluded in Florence, Italy. We would like to express our heartfelt thanks to the more than 170 participants, all the keynote / invited speakers, the local student...
         </description>
         <pubDate>Tue, 17 Oct 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023-10-17-ISSRE_closing/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023-10-17-ISSRE_closing/</guid>
+        <link>https://stlab-unifi.github.io/2023-10-17-ISSRE_closing/</link>
+        <guid isPermaLink="true">https://stlab-unifi.github.io/2023-10-17-ISSRE_closing/</guid>
       </item>
     
       <item>
@@ -29,8 +40,8 @@
           Roberto Verdecchia, assistant professor of the STLAB, was recently interviewed by the New York Times on the environmental sustainability of AI, also simply referred to as “Green AI”. With the ever-growing adoption of AI-based systems, the carbon footprint of AI is no longer negligible. According to recent figures, training a...
         </description>
         <pubDate>Mon, 16 Oct 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023-10-16-ISSRE/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023-10-16-ISSRE/</guid>
+        <link>https://stlab-unifi.github.io/2023-10-16-ISSRE/</link>
+        <guid isPermaLink="true">https://stlab-unifi.github.io/2023-10-16-ISSRE/</guid>
       </item>
     
       <item>
@@ -40,8 +51,8 @@
           Enrico Vicario, head of the Software and Systems Engineering Laboratory (STLab), has won the best paper award at the 20th International Conference on Quantitative Evaluation of SysTems (QEST 2023) , held in Antwerp, Belgium from September 20 to 22, 2023. The QEST conference is the leading forum on quantitative evaluation...
         </description>
         <pubDate>Sat, 30 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023-09-30-QUEST_award/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023-09-30-QUEST_award/</guid>
+        <link>https://stlab-unifi.github.io/2023-09-30-QUEST_award/</link>
+        <guid isPermaLink="true">https://stlab-unifi.github.io/2023-09-30-QUEST_award/</guid>
       </item>
     
       <item>
@@ -51,8 +62,8 @@
           The project “Software Engineering Education and Training: Exploring Factors for Excellence (SEET-EFE)” recieved funding from the Fondazione CR Firenze. The fund, amounting to 60.000€, will be used to design, optimize, and consolidate innovative educational processes in the field of software development, with a particular emphasis on the balance between practical...
         </description>
         <pubDate>Thu, 22 Jun 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023-06-22-FCR_fund/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023-06-22-FCR_fund/</guid>
+        <link>https://stlab-unifi.github.io/2023-06-22-FCR_fund/</link>
+        <guid isPermaLink="true">https://stlab-unifi.github.io/2023-06-22-FCR_fund/</guid>
       </item>
     
       <item>
@@ -62,8 +73,8 @@
           The 34th IEEE International Symposium on Software Reliability Engineering (ISSRE’23) conference will be hosted in Florence from the 9th to the 12th October 2023. The event will be organized by Enrico Vicario, with the support of local co-organizers Benedetta Picano and Roberto Verdecchia. ISSRE is the leading conference on software...
         </description>
         <pubDate>Tue, 13 Jun 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023-06-13-ISSRE/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023-06-13-ISSRE/</guid>
+        <link>https://stlab-unifi.github.io/2023-06-13-ISSRE/</link>
+        <guid isPermaLink="true">https://stlab-unifi.github.io/2023-06-13-ISSRE/</guid>
       </item>
     
   </channel>
