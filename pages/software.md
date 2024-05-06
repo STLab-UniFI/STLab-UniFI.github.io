@@ -20,6 +20,21 @@ ORIS is a tool for quantitative modeling of non-Markovian systems as Stochastic 
 Website: [https://www.oris-tool.org](https://www.oris-tool.org)
 
 
+# CLAIM
+<center>
+<figure>
+    <img src="/img/logos/claim.png"
+         alt="" style="text-align: center; width: 35%;">
+    <figcaption></figcaption>
+</figure>
+</center>
+
+CLAIM is a lightweight static source code analysis approach that analyzes configuration files to identify microservices in Dockerized environments. CLAIM is specifically designed with scalability in mind, analyzing a software product comprising 417k SLOC in 266 milliseconds.
+
+
+Source code: [https://figshare.com/s/bbf23e6b252d233ffbe3](https://figshare.com/s/bbf23e6b252d233ffbe3)<br>
+Publication: [PDF](https://robertoverdecchia.github.io/papers/EASE_2024.pdf)
+
 # ATDx
 <center>
 <figure>
