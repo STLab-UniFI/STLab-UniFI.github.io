@@ -39,8 +39,8 @@ team:
   - name: Dr. Leonardo Scommegna
     img: /img/people/leonardo.png
     desc: Assistant Professor
-    website: https://www.linkedin.com/in/leonardo-scommegna-664b0a162/
-    url: https://www.linkedin.com/in/leonardo-scommegna-664b0a162/
+    website: https://leonardoscommegna.github.io/
+    url: https://leonardoscommegna.github.io/
 
   - name: Dr. Gloria Gori
     img: /img/people/gloria.png
