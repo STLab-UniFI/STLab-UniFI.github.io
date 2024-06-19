@@ -12,6 +12,12 @@ title: Awards
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
 
+## ❖ Best Presentation Award
+<p style="margin-top:-16px;"></p>  
+**Recipients:** András Horváth, Marco Paolieri, and _Enrico Vicario_<br>
+**Venue:** European Performance Engineering Workshop, Venice, Italy<br>
+<img src="/img/awards/EPEW2024.png" alt="EPEW_Venice_Award_STLAB" height="75%" width="75%"> <br><br>
+
 ## ❖ Best Poster Award - Restart Plenary Meeting, Bologna
 <p style="margin-top:-16px;"></p>  
 **Recipients:** Leonardo Paroli, Marco Becattini, Imad Zaza, Leonardo Scommegna, Giovanni Fontani<br>
