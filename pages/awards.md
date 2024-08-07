@@ -22,7 +22,6 @@ title: Awards
 <p style="margin-top:-16px;"></p>  
 **Recipients:** Leonardo Paroli, Marco Becattini, Imad Zaza, Leonardo Scommegna, Giovanni Fontani<br>
 **Venue:** Best Poster awards at Restart Plenary Meeting 2024 - Bologna<br>
-<img src="/img/awards/RESTART_Bologna_Award_STLAB.jpeg" alt="RESTART_Bologna_Award_STLAB" height="75%" width="75%"> <br><br>
  
 ## ❖ Best Paper Award
 <p style="margin-top:-16px;"></p>  
