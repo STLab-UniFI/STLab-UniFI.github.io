@@ -23,8 +23,8 @@ Website: [https://www.oris-tool.org](https://www.oris-tool.org)
 # CLAIM
 <center>
 <figure>
-    <img src="/img/logos/claim.png"
-         alt="" style="text-align: center; width: 35%;">
+    <img src="/img/logos/CLAIM.png"
+         alt="" style="text-align: center; width: 25%;">
     <figcaption></figcaption>
 </figure>
 </center>
