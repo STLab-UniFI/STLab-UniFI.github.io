@@ -45,6 +45,9 @@
 <loc>http://localhost:4000/pages/awards/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pages/call/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/pages/contact/</loc>
 </url>
 <url>
