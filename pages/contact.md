@@ -12,7 +12,7 @@ title: Contact
   </div>
   <div class="column">
     <h3>Where we are</h3>
-    Room 468 (2nd Floor), University of Florence - School of Engineering<br>
+    Room 235 (2nd Floor, right wing), University of Florence - School of Engineering<br>
     Via di Santa Marta 3 (second floor)<br>
     50139 Florence, Italy
   </div>
