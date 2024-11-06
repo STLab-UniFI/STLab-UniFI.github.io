@@ -35,25 +35,25 @@ To address these objectives, ADVENTURE unites two research units with consolidat
 # Publications
 ## 2024
 
--  Basile, D. and ter Beek, M.H.; **Advancing orchestration synthesis for contract automata** 
+-  Basile, D. and ter Beek, M.H.; **Advancing orchestration synthesis for contract automata**
 *Journal of Logical and Algebraic Methods in Programming* p.100998.
-https://doi.org/10.1016/j.jlamp.2024.100998
+[link](https://doi.org/10.1016/j.jlamp.2024.100998)
 
 - Basile, D., **Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal** 
 In *International Conference on Coordination Models and Languages* (pp. 93-110). Cham: Springer Nature Switzerland.
-https://doi.org/10.1007/978-3-031-62697-5_6
+[link](https://doi.org/10.1007/978-3-031-62697-5_6)
 
-- Cortés, D., Ortiz, J., Basile, D., Aranda, J., Perrouin, G. and Schobbens, P.Y. **Time for Networks: Mutation Testing for Timed Automata Networks** 
+- Cortés, D., Ortiz, J., Basile, D., Aranda, J., Perrouin, G. and Schobbens, P.Y. **Time for Networks: Mutation Testing for Timed Automata Networks**
 In *Proceedings of the 2024 IEEE/ACM 12th International Conference on Formal Methods in Software Engineering (FormaliSE)* (pp. 44-54).
-https://doi.org/10.1145/3644033.3644378
+[link](https://doi.org/10.1145/3644033.3644378)
 
-- Basile, D., ter Beek, M. H., Carnevali, L., Chiaradonna, S., Di Giandomenico, F., Fantechi, A. and Gori, G. **An Integrated Perspective on the Evaluation of Complex Railway Systems** 
-In *Proceedings of the 12th International Symposium on Leveraging Applications of Formal Methods, Verification and Validation: Application Areas (ISoLA'24) (T. Margaria and B. Steffen, eds.), Lecture Notes in Computer Science 15223*, Springer, Cham, 2024, 190 - 207.
-https://doi.org/10.1007/978-3-031-75390-9_13
+- Basile, D., ter Beek, M. H., Carnevali, L., Chiaradonna, S., Di Giandomenico, F., Fantechi, A. and Gori, G. **An Integrated Perspective on the Evaluation of Complex Railway Systems**  
+In *Proceedings of the 12th International Symposium on Leveraging Applications of Formal Methods, Verification and Validation: Application Areas (ISoLA'24) (T. Margaria and B. Steffen, eds.), Lecture Notes in Computer Science 15223*, Springer, Cham, 2024, pp. 190 - 207.
+[link](https://doi.org/10.1007/978-3-031-75390-9_13)
 
 - Basile, D., ter Beek, M.H., Di Giandomenico, F., Carnevali, L. and Fantechi, A. **Advanced Integrated Evaluation of Railway Systems** 
-*ERCIM News* - Special: Extended Reality 137 (2024), 53 - 54.
-https://ercim-news.ercim.eu/en137/r-i/advanced-integrated-evaluation-of-railway-systems
+*ERCIM News* - Special: Extended Reality 137 (2024), pp. 53--54.
+[link](https://ercim-news.ercim.eu/en137/r-i/advanced-integrated-evaluation-of-railway-systems)
 
  
 
