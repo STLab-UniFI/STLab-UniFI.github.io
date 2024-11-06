@@ -32,6 +32,12 @@ The developed solutions will be validated by their application to systems highly
 
 To address these objectives, ADVENTURE unites two research units with consolidated experience in model-based methods for qualitative and quantitative evaluation of complex systems and in their application to various fields of the railway domain.
 
+<h1>Publications</h1>
+ | Reference |
+| --- | --- |
+| 1 | Riferimento 1 |
+| 2 | Riferimento 2 |
+| 3 | Riferimento 3 |
 <div style="text-align: center">
 <figure>
     <img src="/img/logos/nextgeneu_en_new.png"
