@@ -55,6 +55,12 @@ In *Proceedings of the 12th International Symposium on Leveraging Applications o
 *ERCIM News* - Special: Extended Reality 137 (2024), pp. 53--54.
 [link](https://ercim-news.ercim.eu/en137/r-i/advanced-integrated-evaluation-of-railway-systems)
 
+- Limbrée, C., Haxthausen, A. E., Gori, G., Fantechi, A., **Formal Verification of Railway Interlockings: a Compositional Approach Based on a Library of Pre-verified Components**
+In *Proceedings of the 12th International Symposium on Leveraging Applications of Formal Methods, Verification and Validation: Application Areas (ISoLA'24) (T. Margaria and B. Steffen, eds.), Lecture Notes in Computer Science 15223*, Springer, Cham, 2024, pp. 127 - 141.
+[link](https://doi.org/10.1007/978-3-031-75390-9_9)
+
+
+
  
 
 <div style="text-align: center">
