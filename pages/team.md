@@ -48,12 +48,6 @@ team:
     website: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
     url: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
 
-  - name: Dr. Riccardo Reali
-    img: /img/people/riccardo.png
-    desc: Postoctoral Researcher
-    website: https://www.linkedin.com/in/riccardo-reali-b7602b46/
-    url: https://www.linkedin.com/in/riccardo-reali-b7602b46/
-
   - name: Leonardo Paroli
     img: /img/people/leo.png
     desc: PhD Student
