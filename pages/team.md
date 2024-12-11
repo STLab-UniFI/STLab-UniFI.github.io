@@ -54,6 +54,10 @@ team:
     website: https://www.linkedin.com/in/leonardo-paroli-127508154/?originalSubdomain=it
     url: https://www.linkedin.com/in/leonardo-paroli-127508154/?originalSubdomain=it
     github: https://github.com/LeonardoParoli
+    
+  - name: Giovanni Fontani
+    img: /img/people/giovanni.png
+    desc: Phd Student
 
   - name: Marco Becattini
     img: /img/people/marco.png
