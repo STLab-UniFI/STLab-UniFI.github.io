@@ -19,4 +19,4 @@ This award highlights the innovative work conducted at STLab and the dedication 
 
 Congratulations to Kevin for this outstanding achievement!
 
-[[Link to thesis]](https://kevinmaggi.github.io/assets/theses/master2023.pdf) [[Link to article]](https://www.ordineingegneri.fi.it/ordine/premio-di-laurea-ciullini-chiarugi/)
+[[Link to thesis]](https://kevinmaggi.github.io/assets/theses/master2023.pdf) [[Link to article]](https://www.gallitorrini.com/comunicati/universita-dal-simulatore-per-motociclisti-alla-gestione-dei-rifiuti-sanitari-ecco-i-vincitori-dei-premi-e-borse-di-studio-dellordine-degli-ingegneri-di-firenze/)
