@@ -12,6 +12,14 @@ title: Awards
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
 
+## ❖ Top Cited Article Award
+<p style="margin-top:-16px;"></p>  
+**Recipients:** _Roberto Verdecchia_, June Sallou, Luís Cruz<br>
+**Venue: Wiley Interdisciplinary Reviews Journal** <br>
+<p align="center">
+<img src="/img/awards/WIREs.png" alt="WIREs Award" height="75%" width="75%"> <br><br>
+</p>
+
 ## ❖ Best Paper Award
 <p style="margin-top:-16px;"></p>  
 **Recipients:** _Sofia Migliorini_, _Roberto Verdecchia_, _Enrico Vicario_, Ivano Malavolta, Patricia Lago, _Enrico Vicario_<br>

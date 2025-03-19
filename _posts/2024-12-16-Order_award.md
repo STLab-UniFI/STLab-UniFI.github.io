@@ -1,13 +1,13 @@
 ---
 layout: post
-title: STLab Scholarship Researcher Wins Prestigious Award from the Florence Order of Engineers
+title: STLab Scholarship Researcher Wins Award from the Florence Order of Engineers
 tags: [award]
 comments: false
 ---
 
-We are proud to share that **Kevin Maggi**, a scholarship researcher at STLab and former master’s thesis student in our laboratory, has been awarded the **Degree Award** by the **Order of Engineers of Florence**. This prestigious recognition celebrates outstanding academic contributions to engineering.
+We are proud to share that **Kevin Maggi**, a scholarship researcher at STLab and former master’s thesis student in our laboratory, has been awarded the **Degree Award** by the **Order of Engineers of Florence**. This  recognition celebrates outstanding academic contributions to the engineering field.
 
-Kevin’s thesis, completed one year ago at STLab, focused on the evolution of Code Technical Debt in Microservices Architectures. The project was closely aligned with the themes of Italy’s National Recovery and Resilience Plan (PNRR), addressing the maintainability of microservice-based software-intensive systems such as the infrastructures for the digitalization plan of public administrations, healthcare, and industries included in the PNRR.
+Kevin’s thesis, completed one year ago at STLab, focused on the evolution of Code Technical Debt in Microservices Architectures.
 
 A comprehensive understanding of how Technical Debt evolves and accumulates in microservices architectures is crucial to planning a sustainable development evolution and optimizing maintainability interventions. 
 
