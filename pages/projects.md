@@ -48,17 +48,6 @@ Il progetto AISS – AI Based Service Management Suite mira a far evolvere la pi
 Più nel dettaglio, il progetto evolve l’attuale AskMe Desk trasformandola in un’architettura cloud-native a microservizi containerizzati, alimentata da un data-lakehouse multistrato che garantisce un flusso dati continuo agli algoritmi; la piattaforma è progettata per essere compliant by-design con GDPR, EU Data Act ed EU AI Act, riducendo i rischi e i costi di adeguamento normativo per gli utilizzatori.
 
 
-Per conseguire tale scopo il consorzio realizza:
-
-
-una architettura containerizzata a microservizi e datalake-house elastica, scalabile e conforme alle più recenti normative UE sull’AI e sulla gestione dei dati ;
-moduli RPA+ e Generative AI per la creazione e il miglioramento continuo dei workflow di servizio ;
-funzionalità di gestione evoluta della knowledge-base basate su LLM, NLP e Reinforcement Learning, affinché la conoscenza aziendale alimenti e potenzi l’automazione ;
-algoritmi ibridi AI/AL e meta-modelling per l’analisi e l’ottimizzazione dell’intero ciclo di vita dei servizi, con impatti misurabili su costi operativi, qualità e produttività
-
-Investimento totale ammesso: 1.499.890,80 €
-Contributo totale concesso: 658.950,86 €
-
 {%- capture links -%} [[Read more.]]({{ site.baseurl }}{% link pages/projects/aiss.md %}){%- endcapture -%}{{ links | markdownify | remove: '<p>' | remove: '</p>' }}
 
 <br><br><br><br>
