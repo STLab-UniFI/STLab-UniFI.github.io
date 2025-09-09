@@ -28,6 +28,34 @@ communities.
 </div></div>
 </div>
 
+
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center">
+<figure>
+    <img src="/img/logos/aiss.png"
+         alt="" style="text-align: center; width: 70%;">
+    <figcaption></figcaption>
+</figure>
+</div>
+
+<div><strong style="color: #4A99E9;">AISS</strong><br>
+<div style="text-align:left;">
+
+
+Il progetto AISS – AI Based Service Management Suite mira a far evolvere la piattaforma AskMe Desk in una suite di service-management nativamente arricchita da tecniche di Intelligenza Artificiale e Machine Learning, in modo da rendere accessibile, rapida e sostenibile la digitalizzazione end-to-end dei processi di servizio (service business processes) per imprese di ogni dimensione, con particolare attenzione alle MPMI.
+
+
+Più nel dettaglio, il progetto evolve l’attuale AskMe Desk trasformandola in un’architettura cloud-native a microservizi containerizzati, alimentata da un data-lakehouse multistrato che garantisce un flusso dati continuo agli algoritmi; la piattaforma è progettata per essere compliant by-design con GDPR, EU Data Act ed EU AI Act, riducendo i rischi e i costi di adeguamento normativo per gli utilizzatori.
+
+
+{%- capture links -%} [[Read more.]]({{ site.baseurl }}{% link pages/projects/aiss.md %}){%- endcapture -%}{{ links | markdownify | remove: '<p>' | remove: '</p>' }}
+
+<br><br><br><br>
+</div>
+</div></div>
+</div>
+
+
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center">
 <figure>

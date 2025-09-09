@@ -30,12 +30,6 @@ team:
     github: https://github.com/robertoverdecchia
     twitter: https://twitter.com/r_verdecchia
 
-  - name: Dr. Benedetta Picano
-    img: /img/people/benedetta.png
-    desc: Assistant Professor
-    website: https://stlab.dinfo.unifi.it/picano
-    url: https://stlab.dinfo.unifi.it/picano
-
   - name: Dr. Leonardo Scommegna
     img: /img/people/leonardo.png
     desc: Assistant Professor
