@@ -61,7 +61,10 @@ Contributo totale concesso: 658.950,86 €
 
 {%- capture links -%} [[Read more.]]({{ site.baseurl }}{% link pages/projects/aiss.md %}){%- endcapture -%}{{ links | markdownify | remove: '<p>' | remove: '</p>' }}
 
-
+<br><br><br><br>
+</div>
+</div></div>
+</div>
 
 
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
