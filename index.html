@@ -3,15 +3,13 @@ layout: home
 cover-img: /assets/img/cover.jpg
 full-width: true
 ---
-<div class="col-xl-2"></div>
-<div class="col-xl-5">
-
-
-	{% assign posts = paginator.posts | default: site.posts %}
-
-	<div class="posts-list">
-	  {% for post in posts %}
-	  <article class="post-preview">
+<div class="row">
+  <div class="col-xl-3"></div> <!-- Left margin -->
+  <div class="col-xl-6">
+    {% assign posts = paginator.posts | default: site.posts %}
+    <div class="posts-list">
+      {% for post in posts %}
+      <article class="post-preview">
 
 	    {%- capture thumbnail -%}
 	      {% if post.thumbnail-img %}
@@ -91,7 +89,6 @@ full-width: true
 	   </article>
 	  {% endfor %}
 	</div>
-
 	{% if paginator.total_pages > 1 %}
 	<ul class="pagination main-pager">
 	  {% if paginator.previous_page %}
@@ -106,10 +103,11 @@ full-width: true
 	  {% endif %}
 	</ul>
 	{% endif %}
-
+  </div>
+  <div class="col-xl-3"></div> <!-- Right margin -->
 </div>
 
-
+<!--
 <div class="col-xl"></div>
 
 <div class="col-xl-3">
@@ -118,3 +116,4 @@ full-width: true
 
 
 <div class="col-xl"></div>
+-->

@@ -96,8 +96,8 @@
   
   <meta name="twitter:card" content="summary_large_image">
   
-  <meta name="twitter:site" content="@STLabUniFI">
-  <meta name="twitter:creator" content="@STLabUniFI">
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
 
   <meta property="twitter:title" content="Software Technologies Lab">
   <meta property="twitter:description" content="{% assign posts = paginator.posts | default: site.posts %} {% for post in posts %} {%- capture thumbnail -%} {% if post.thumbnail-img %} {{ post.thumbnail-img }} {% elsif post.cover-img %} {% if post.cover-img.first %} {{ post.cover-img[0].first.first }} {% else %} {{ post.cover-img }} {% endif %} {% else %} {%...">
@@ -239,15 +239,13 @@
   <div class="row">
     
 
-    <div class="col-xl-2"></div>
-<div class="col-xl-5">
-
-
-	
-
-	<div class="posts-list">
-	  
-	  <article class="post-preview">
+    <div class="row">
+  <div class="col-xl-3"></div> <!-- Left margin -->
+  <div class="col-xl-6">
+    
+    <div class="posts-list">
+      
+      <article class="post-preview">
 	    
 
 	    
@@ -291,7 +289,7 @@
 
 	   </article>
 	  
-	  <article class="post-preview">
+      <article class="post-preview">
 	    
 
 	    
@@ -335,7 +333,7 @@
 
 	   </article>
 	  
-	  <article class="post-preview">
+      <article class="post-preview">
 	    
 
 	    
@@ -379,7 +377,7 @@
 
 	   </article>
 	  
-	  <article class="post-preview">
+      <article class="post-preview">
 	    
 
 	    
@@ -423,7 +421,7 @@
 
 	   </article>
 	  
-	  <article class="post-preview">
+      <article class="post-preview">
 	    
 
 	    
@@ -468,7 +466,6 @@
 	   </article>
 	  
 	</div>
-
 	
 	<ul class="pagination main-pager">
 	  
@@ -479,10 +476,11 @@
 	  
 	</ul>
 	
-
+  </div>
+  <div class="col-xl-3"></div> <!-- Right margin -->
 </div>
 
-
+<!--
 <div class="col-xl"></div>
 
 <div class="col-xl-3">
@@ -491,6 +489,7 @@
 
 
 <div class="col-xl"></div>
+-->
 
     
 
@@ -519,14 +518,6 @@
         <i class="fab fa-github fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">GitHub</span>
-   </a>
-  </li><li class="list-inline-item">
-    <a href="https://twitter.com/STLabUniFI" title="Twitter">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Twitter</span>
    </a>
   </li></ul>
 
