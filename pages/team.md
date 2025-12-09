@@ -63,6 +63,13 @@ team:
     website: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
     url: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
 
+  - name: Tommaso Botarelli
+    img: /img/people/tommaso.png
+    desc: PhD Student
+    website: https://www.linkedin.com/in/tommaso-botarelli-37138322a/
+    url: https://www.linkedin.com/in/tommaso-botarelli-37138322a/
+    github: https://github.com/TommasoBotarelli
+
 
 ---
 {% include list-squares.html items=page.team %}
